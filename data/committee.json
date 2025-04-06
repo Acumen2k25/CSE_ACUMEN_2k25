@@ -9,5 +9,7 @@
     { "image": "deepak.jpg", "name": "Sai Deepak Kalla", "description": "Non-Technical Head" },
     { "image": "vaibhav.jpg", "name": "Sree Vaibhav Duvvuri", "description": "PR Head" },
     { "image": "gabriel.jpg", "name": "Ryan Gabriel", "description": "Technical Head" },
-    { "image": "sarath.jpg", "name": "Sarath Kumar", "description": "Technical Head", "url":"committee/test" }
+    { "image": "sarath.jpg", "name": "Sarath Kumar", "description": "Technical Head", "url":"committee/test" },
+    { "image": "deekshit.jpg", "name": "Deekshita Reddy", "description": "Design Head" },
+    { "image": "sujith.jpg", "name": "Sujith", "description": "Sponsorship Coordinator", "url":"committee/test" }
 ]
